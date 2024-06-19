@@ -1,2 +1,2 @@
-# Billetera
-xddxdxdxdxdxdxdxdxdxdxd
+# que son los requerimientos funcionales
+xdxdxddxdd
