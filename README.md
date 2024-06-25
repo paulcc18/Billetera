@@ -7,5 +7,5 @@ This program simulates a wallet in which you can deposit or withdraw money with 
 * Version: 17.0.11
   
 > [!NOTE]
-> La ruta del archivo es: DigitalWallet\src\main\java\com\mycompany\DigitalWallet
+> La ruta del archivo es: DigitalWallet\src\digitalwallet
 
