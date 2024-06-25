@@ -18,5 +18,5 @@ To use the command prompt: we open a console in the location of the .jar and use
 # Ejecution of Program
 ![image](https://github.com/paulcc18/Digital-Wallet/blob/main/Captura%20de%20pantalla%202024-06-24%20223502.png)
  
-> [IMPORTANT]
+> [!IMPORTANT]
 > The program only receives positive numbers.
