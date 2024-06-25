@@ -7,7 +7,7 @@ This program simulates a wallet in which you can deposit or withdraw money with 
 * Version: 22.0.1
   
 > [!NOTE]
-> La ruta del archivo es: DigitalWallet\src\digitalwallet
+> The file path is: DigitalWallet\src\digitalwallet
 
 * To run the .exe file you need to have the JRE installed,
 Another way to run the program is by opening the .jar file that Netbeans generates and compiling the code using the command prompt or by double-clicking.
@@ -17,3 +17,6 @@ To use the command prompt: we open a console in the location of the .jar and use
 ![image](https://github.com/paulcc18/Digital-Wallet/blob/main/Captura%20de%20pantalla%202024-06-24%20223335.png)
 # Ejecution of Program
 ![image](https://github.com/paulcc18/Digital-Wallet/blob/main/Captura%20de%20pantalla%202024-06-24%20223502.png)
+ 
+> [IMPORTANT]
+> The program only receives positive numbers.
