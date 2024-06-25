@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.mycompany.DigitalWallet","l":"DigitalWallet"},{"p":"com.mycompany.DigitalWallet","l":"WalletFrame"}];updateSearchResults();
