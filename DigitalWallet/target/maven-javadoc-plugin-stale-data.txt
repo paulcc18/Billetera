@@ -1,0 +1,43 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/User/Documents/NetBeansProjects/DigitalWallet/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/User/Documents/NetBeansProjects/DigitalWallet/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Digital_Wallet 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Digital_Wallet 1.0-SNAPSHOT API'
+com.mycompany.DigitalWallet
+C:\Users\User\Documents\NetBeansProjects\DigitalWallet\src\main\java = 1719264408468
+C:\Users\User\Documents\NetBeansProjects\DigitalWallet\target\site\apidocs\allclasses-index.html = 1719277582193
+C:\Users\User\Documents\NetBeansProjects\DigitalWallet\target\site\apidocs\allpackages-index.html = 1719277582199
+C:\Users\User\Documents\NetBeansProjects\DigitalWallet\target\site\apidocs\element-list = 1719277582051
+C:\Users\User\Documents\NetBeansProjects\DigitalWallet\target\site\apidocs\help-doc.html = 1719277582230
+C:\Users\User\Documents\NetBeansProjects\DigitalWallet\target\site\apidocs\index-all.html = 1719277582221
+C:\Users\User\Documents\NetBeansProjects\DigitalWallet\target\site\apidocs\index.html = 1719277582225
+C:\Users\User\Documents\NetBeansProjects\DigitalWallet\target\site\apidocs\jquery-ui.overrides.css = 1719277582253
+C:\Users\User\Documents\NetBeansProjects\DigitalWallet\target\site\apidocs\member-search-index.js = 1719277582208
+C:\Users\User\Documents\NetBeansProjects\DigitalWallet\target\site\apidocs\module-search-index.js = 1719277582201
+C:\Users\User\Documents\NetBeansProjects\DigitalWallet\target\site\apidocs\overview-tree.html = 1719277582171
+C:\Users\User\Documents\NetBeansProjects\DigitalWallet\target\site\apidocs\package-search-index.js = 1719277582204
+C:\Users\User\Documents\NetBeansProjects\DigitalWallet\target\site\apidocs\script.js = 1719277582235
+C:\Users\User\Documents\NetBeansProjects\DigitalWallet\target\site\apidocs\search.js = 1719277582238
+C:\Users\User\Documents\NetBeansProjects\DigitalWallet\target\site\apidocs\serialized-form.html = 1719277582137
+C:\Users\User\Documents\NetBeansProjects\DigitalWallet\target\site\apidocs\stylesheet.css = 1719277582233
+C:\Users\User\Documents\NetBeansProjects\DigitalWallet\target\site\apidocs\tag-search-index.js = 1719277582211
+C:\Users\User\Documents\NetBeansProjects\DigitalWallet\target\site\apidocs\type-search-index.js = 1719277582206
