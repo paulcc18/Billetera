@@ -9,3 +9,6 @@ This program simulates a wallet in which you can deposit or withdraw money with 
 > [!NOTE]
 > La ruta del archivo es: DigitalWallet\src\digitalwallet
 
+# Interface
+
+# Ejecution of Program
