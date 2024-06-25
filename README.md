@@ -16,9 +16,10 @@ has been completed using the command prompt or by double-clicking.
 
 # Interface
 ![image](https://github.com/paulcc18/Digital-Wallet/blob/main/Captura%20de%20pantalla%202024-06-24%20223335.png)
+
+# Ejecution of Program
 > [!IMPORTANT]
 > The program only receives positive numbers.
-# Ejecution of Program
 ![image](https://github.com/paulcc18/Digital-Wallet/blob/main/Captura%20de%20pantalla%202024-06-24%20223502.png)
  
 
